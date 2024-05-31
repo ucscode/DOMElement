@@ -1,0 +1,20 @@
+{
+    "name": "ucscode/dom-element",
+    "description": "A class constant contain all recognized HTML element tags",
+    "keywords": ["DOMElement", "DOMDocument", "DOMNode", "DOM", "PHP"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.0"
+    },
+    "authors": [
+        {
+            "name": "Uchenna Ajah",
+            "email": "uche23mail@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ucscode\\DOMElement\\": "/"
+        }
+    }
+}
